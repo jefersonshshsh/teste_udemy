@@ -4,7 +4,6 @@ import java.util.Date;
 
 import org.hamcrest.Description;
 import org.hamcrest.TypeSafeMatcher;
-import org.hamcrest.internal.ReflectiveTypeFinder;
 
 import br.ce.wcaquino.utils.DataUtils;
 
